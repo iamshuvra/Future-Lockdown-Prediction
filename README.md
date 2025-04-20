@@ -1,4 +1,5 @@
 # Future-Lockdown-Prediction
+Paper Link: [A Study on Future Lockdown Predictions using ANN](https://ieeexplore.ieee.org/abstract/document/10212686)
 
 Please cite the paperwork as:
 
